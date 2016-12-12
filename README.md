@@ -12,6 +12,12 @@ The protocol for messaging is inspired from IRC. In fact it's a much simpler ver
 
 The project takes use of some of the [Apache Commons](https://commons.apache.org) project.
 
+## Features
+- Notification when someone joins or leaves the network
+- Private chat
+- Send file (to individual)
+- Send file with encryption
+
 ## Execution
 Run the `ChatNetwork.jar` file located at `out/artifacts/ChatNetwork/ChatNetwork.jar`
 
